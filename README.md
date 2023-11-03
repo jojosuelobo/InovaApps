@@ -21,44 +21,115 @@ O intuito da comunidade, é unir os fiéis para que assim possam juntar interess
 
 Por exemplo: Vamos dizer que na minha igreja possui uma comunidade de jovens que são apaixonados por tecnologia, com isso, eles se manterão engajados e também poderão trazer novos jovens para igreja, e assim participarem dessa comunidade.
 
+<div align="center">
+<h2>Prototipação</h2>
+<img width="400" src="./imagens/2022/InPeacePrototype.gif">
+</div>
+
 #### Um pouco das funcionalidades
+
 **Comunidade**:  Aqui, o usuário poderá criar e participar de diferentes comunidades, engaja-las com publições e respostas nas mesmas.
 As comunidades são de tema livre, mas para que seja criado uma comunidade, o fiel terá que se reportar a um administrador para ele entender se faz sentido ou não cria-lá.
 
-<img width="400" align="center" src="./imagens/2022/Home.jpg">
+<div align="center">
+<img width="300" align="center" src="./imagens/2022/Home.jpg">
+</div>
 
 **Explorar - (Comunidade)**: Aqui será exibido todas comunidades criadas por um administrador, na qual o fiel pode escolher entrar ou não.
 
-<img width="400" align="center" src="./imagens/2022/Comunidade- Explorer.png">
+<div align="center">
+<img width="300" align="center" src="./imagens/2022/Comunidade- Explorer.png">
+</div>
 
 **Feed - (Comunidade)**: Aqui será exibido todas as publicações por ordem de última postagem das comunidades em que você participa. 
 
-<img width="400" align="center" src="./imagens/2022/Comunidade - Feed.png">
+<div align="center">
+<img width="300" align="center" src="./imagens/2022/Comunidade - Feed.png">
+</div>
 
 **Seguindo - (Comunidade)**: Aqui será exibido todas comunidades que o fiel segue.
 
-<img width="400" align="center" src="./imagens/2022/Community - Seguindo.png">
+<div align="center">
+<img width="300" align="center" src="./imagens/2022/Community - Seguindo.png">
+</div>
 
 **Grupos - (Comunidade)**: Mantivemos a mesma função de grupos do aplicativo original, mas para fazer sentido com nosso novo layout, reformulamos algumas telas.
 
-<img width="400" align="center" src="./imagens/2022/Community - Grupos.png">
+<div align="center">
+<img width="300" align="center" src="./imagens/2022/Community - Grupos.png">
+</div>
 
 Entrando nas comunidades, nas postagens, você consegue visualizar a tag de referência a uma comunidade no canto superior direito, também consegue visualizar quando o membro é novo, por ordem de cor no nome, do mais claro pro mais escuro, mostra o quanto o membro é mais antigo na comunidade.
 
 **Meu dia**: Aqui o usuário terá sugestão de versículo do dia para meditar sobre com sua família ou amigos, que podem ser aleatórios ou informado pelo líder de sua igreja, também nessa funcionalidade, encontramos a sugestão de oração do dia e sugestão de louvor do dia.
 
-<img width="400" align="center" src="./imagens/2022/Meu dia.png">
+<div align="center">
+<img width="300" align="center" src="./imagens/2022/Meu dia.png">
+</div>
 
 **Sistema de Recompensa**: Pensando na maneira de recompensar o fiel por usar o aplicativo, adotamos o sistema de recompensa por insignia, que será exibido em seu perfil dentro da comunidade, os fieis poderão ver o nome das insignias ao passar o mouse ou clicar sobre elas. As insignias funcionará da seguinte forma, ao fiel cumprir determinadas metas dentro do aplicativo ou participar de alguns eventos em específicos, ele será recompensado com um ícone em seu perfil.
 
 **Notificação**: Trará notificações sobre suas publicações além do versículo do dia, que será enviado diáriamente, sendo esse versículo aleátorio ou um versículo cadastrado pelo pastor para ser enviado em algum dia específico
 
-<img width="400" align="center" src="./imagens/2022/Notificação.png">
+<div align="center">
+<img width="300" align="center" src="./imagens/2022/Notificação.png">
+</div>
 
 #### Novo Layout
 O layout foi remodelado para se encaixar melhor com nossa proposta de inovação, assim pensando em conceitos de UX, na tela inicial colocamos um banner de notícias, na qual fica mais acessível e visível para o leitor ao entrar no aplicativo, logo após temos o menu, onde usamos os conceitos de usabilidade, e agrupamos os botões em nivel de importancia na tela inicial, e no menu lateral os itens estão agrupados por um dropdown.
 
-<img width="400" src="./imagens/2022/InPeacePrototype.gif">
 
 
-# 2023
+# 2023: Desafio UpCities
+
+A UpCities é uma startup que oferece soluções completas para prefeituras e órgãos públicos, incluindo um aplicativo para acesso rápido aos serviços públicos. A plataforma é um facilitador para as secretarias e autarquias do município, reduzindo a burocracia e fornecendo dados precisos. A UpCities atende serviços como Procon, agendamento médico, telemedicina e outros. Atualmente, a empresa tem contratos com as prefeituras de Vitória, Vila Velha, Cariacica, Viana e outras cidades.
+      
+
+**Desafio:** Ampliar os serviços do aplicativo com foco em inovação e abranger ferramentas ainda não integradas com o app.
+
+### Entrega feita
+
+Foi pensado em integrar as opções relacionadas a educação da plataforma, em uma única aba Educação. Dentro desta aba, o Aluno ou Responsável poderá checar informações sobre o andamento escolar do aluno, como boletim, faltas, avisos escolares, ocorrência, horário e calendário escolar. Além disso, realizar outras ações, como Matrícula/Rematrícula e visualizar seus documentos escolares. Outra opção seria para escola, onde será administrado as funcionalidades da escola.
+
+#### Diagrama
+
+<div align="center">
+<img width="1200" src="./imagens/2023/Diagrama.jpg">
+</div>
+
+<div align="center">
+<h2>Prototipação</h2>
+<img width="400" src="./imagens/2023/UpCitiesPrototipacao.gif">
+</div>
+
+**Portal do Aluno:** Após clicar no card Educação, serão mostrados os serviços disponíveis para o Aluno, Responsável ou Funcionários de uma instuição escolar.
+
+<div align="center">
+<img width="300" align="center" src="./imagens/2023/Edu.png">
+</div>
+
+Ao acessar página, será dada duas opções, Sou aluno e Sou um responsável, na opção de aluno, será mostrado escolas na qual aquele aluno está cadastrado pelo CPF, e na opção de responsável, alunos na qual estão cadastrados vinculados ao CPF do responsável.
+
+<div align="center" display="flex">
+<img width="300" align="center" src="./imagens/2023/rematriculaPais.png">
+<img width="300" align="center" src="./imagens/2023/rematriculaAluno.png">
+</div>
+
+**Dashboard do Aluno:** O Dashboard visa em mostrar informações uteis para o Aluno, assim também para os seus Responsaveis. Tela responsável pelas informações escolares do aluno relacionadas ao andamento escolar, onde será exibidos **Boletim**, **Faltas**, **Avisos escolares**, **Ocorrência**, **Horário** e **Calendário escolar**.
+
+<div align="center">
+<img width="300" align="center" src="./imagens/2023/portalDoAluno.png">
+</div>
+
+**Matrícula/Rematrícula:**: Aba na qual o usuário poderá além de fazer sua matrícula ou rematrícula, selecionar a escola na qual deseja se cadastrar, baseados em informações sobre a escola, como suporte a pessoas com deficiência, e endereço. Outra implementação, será o envio de documentos digitalizados para o cadastro, poupando tempo do usuário, e trazendo mais agilidade ao processo. Tal funcionalidade foi pensada para resolver o problema onde os responsáveis ou alunos não precisem mais se dirigir a uma escola para realizar matricula ou rematrícula, e tais documentos poderão ser digitalizados e analisados pela escola. Além disso, no momento da matricula, pensamos em mostrar informações importantes sobre a escola, como se ela tem um suporte/ensino especializado para PCD.
+
+<div align="center" display="flex">
+<img width="300" align="center" src="./imagens/2023/matricula.jpg">
+<img width="300" align="center" src="./imagens/2023/matricula2.jpg">
+</div>
+
+**Documentos Escolares:** Aba na qual usuário poderá visualizar seus documentos escolares de forma fácil e prática, documentos que antes se faz necessário ir até o local para serem recolhidos, podem ser adquiridos de forma digital sem a necessidade de locomoção. Essa funcionalidade é voltada para as pessoas que querem algum documento escolar sem precisar ir até a instituição.
+
+<div align="center">
+<img width="300" align="center" src="./imagens/2023/docs.jpg">
+</div>
