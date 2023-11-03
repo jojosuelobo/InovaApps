@@ -24,32 +24,40 @@ Por exemplo: Vamos dizer que na minha igreja possui uma comunidade de jovens que
 #### Um pouco das funcionalidades
 **Comunidade**:  Aqui, o usuário poderá criar e participar de diferentes comunidades, engaja-las com publições e respostas nas mesmas.
 As comunidades são de tema livre, mas para que seja criado uma comunidade, o fiel terá que se reportar a um administrador para ele entender se faz sentido ou não cria-lá.
+
 <img width="400" align="center" src="./imagens/2022/Home.jpg">
 
 **Explorar - (Comunidade)**: Aqui será exibido todas comunidades criadas por um administrador, na qual o fiel pode escolher entrar ou não.
+
 <img width="400" align="center" src="./imagens/2022/Comunidade- Explorer.png">
 
 **Feed - (Comunidade)**: Aqui será exibido todas as publicações por ordem de última postagem das comunidades em que você participa. 
+
 <img width="400" align="center" src="./imagens/2022/Comunidade - Feed.png">
 
 **Seguindo - (Comunidade)**: Aqui será exibido todas comunidades que o fiel segue.
+
 <img width="400" align="center" src="./imagens/2022/Community - Seguindo.png">
 
 **Grupos - (Comunidade)**: Mantivemos a mesma função de grupos do aplicativo original, mas para fazer sentido com nosso novo layout, reformulamos algumas telas.
+
 <img width="400" align="center" src="./imagens/2022/Community - Grupos.png">
 
 Entrando nas comunidades, nas postagens, você consegue visualizar a tag de referência a uma comunidade no canto superior direito, também consegue visualizar quando o membro é novo, por ordem de cor no nome, do mais claro pro mais escuro, mostra o quanto o membro é mais antigo na comunidade.
 
 **Meu dia**: Aqui o usuário terá sugestão de versículo do dia para meditar sobre com sua família ou amigos, que podem ser aleatórios ou informado pelo líder de sua igreja, também nessa funcionalidade, encontramos a sugestão de oração do dia e sugestão de louvor do dia.
+
 <img width="400" align="center" src="./imagens/2022/Meu dia.png">
 
 **Sistema de Recompensa**: Pensando na maneira de recompensar o fiel por usar o aplicativo, adotamos o sistema de recompensa por insignia, que será exibido em seu perfil dentro da comunidade, os fieis poderão ver o nome das insignias ao passar o mouse ou clicar sobre elas. As insignias funcionará da seguinte forma, ao fiel cumprir determinadas metas dentro do aplicativo ou participar de alguns eventos em específicos, ele será recompensado com um ícone em seu perfil.
 
 **Notificação**: Trará notificações sobre suas publicações além do versículo do dia, que será enviado diáriamente, sendo esse versículo aleátorio ou um versículo cadastrado pelo pastor para ser enviado em algum dia específico
+
 <img width="400" align="center" src="./imagens/2022/Notificação.png">
 
 #### Novo Layout
 O layout foi remodelado para se encaixar melhor com nossa proposta de inovação, assim pensando em conceitos de UX, na tela inicial colocamos um banner de notícias, na qual fica mais acessível e visível para o leitor ao entrar no aplicativo, logo após temos o menu, onde usamos os conceitos de usabilidade, e agrupamos os botões em nivel de importancia na tela inicial, e no menu lateral os itens estão agrupados por um dropdown.
+
 <img width="400" src="./imagens/2022/InPeacePrototype.gif">
 
 
